@@ -33,9 +33,9 @@
         <!-- Container wrapper -->
         <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand me-2" href="index.html">
+            <a class="navbar-brand me-2" href="index.php">
             <img
-                src="img/eventhublogo.png"
+                src="img/eventhublogoa.png"
                 height="35"
                 alt="EventHub Logo"
                 loading="lazy"
