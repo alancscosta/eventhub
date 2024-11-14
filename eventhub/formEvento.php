@@ -35,18 +35,19 @@
 
                         <div class="form-floating mb-3 mt-3">
                             <select class="form-select" id="categoriaEvento" name="categoriaEvento" required>
-                                <option value="alimentos">Artes Visuais</option>
-                                <option value="eletronicos">Culinária</option>
-                                <option value="vestuario">Empreendedorismo</option>
-                                <option value="vestuario">Esportes</option>
-                                <option value="vestuario">Finanças</option>
-                                <option value="vestuario">Literatura</option>
-                                <option value="vestuario">Marketing</option>
-                                <option value="vestuario">Recursos Humanos</option>
-                                <option value="vestuario">Saúde</option>
-                                <option value="vestuario">Sustentábilidade</option>
-                                <option value="vestuario">Tecnologia</option>
-                                <option value="vestuario">Outros</option>
+                                <option value="artesVisuais">Artes Visuais</option>
+                                <option value="culinaria">Culinária</option>
+                                <option value="empreendedorismo">Empreendedorismo</option>
+                                <option value="esportes">Esportes</option>
+                                <option value="finanças">Finanças</option>
+                                <option value="literatura">Literatura</option>
+                                <option value="marketing">Marketing</option>
+                                <option value="moda">Moda</option>
+                                <option value="recursosHumano">Recursos Humanos</option>
+                                <option value="saude">Saúde</option>
+                                <option value="sustentabilidade">Sustentábilidade</option>
+                                <option value="tecnologia">Tecnologia</option>
+                                <option value="outros">Outros</option>
                             </select>
                             <label for="categoriaEvento" class="form-label">Categoria:</label>
                             <div class="valid-feedback"></div>
